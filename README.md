@@ -9,4 +9,4 @@ Video processing code used in:
 
 `#todo: actually write instructions`
 
-![XcepTemporal Model](img\xceptemporal-model.jpg)
+![XcepTemporal Model](/img/xceptemporal-model.jpg)
